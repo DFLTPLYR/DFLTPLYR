@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DFLTPLYR
 - 👀 I’m interested in Programming in general
-- 🌱 I’m currently learning Typescript + Reactjs
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me gonzales.johncris01@gmail.com
 - 😄 Pronouns: he/him
 <!---
