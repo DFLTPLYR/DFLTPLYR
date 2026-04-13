@@ -4,6 +4,13 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stat-nine.vercel.app?user=DFLTPLYR&theme=gruvbox&hide_border=true&border_radius=6&short_numbers=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DFLTPLYR/DFLTPLYR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DFLTPLYR/DFLTPLYR/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DFLTPLYR/DFLTPLYR/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Skills
 
 <p align="left">
