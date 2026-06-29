@@ -65,4 +65,4 @@
 
 </div>
 
-### I Use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="20"/> BTW
+### I Use <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="20"/> BTW
