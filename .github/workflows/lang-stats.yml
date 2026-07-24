@@ -1,0 +1,22 @@
+name: Update Language Statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: StefVuck/Github-Language-Stats@v1.2.0
+        with:
+          github_token: ${{ secrets.GH_WF }}
+          visualization_types: "donut"
+          output_path: "stats"
+          include_forks: "true"
+          dark_mode: "true"
