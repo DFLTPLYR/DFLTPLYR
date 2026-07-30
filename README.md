@@ -20,6 +20,16 @@
 
 <div style="display:inline-block; text-align:left;">
 
+
+
+
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
 <p>
   <strong>Languages</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40"/>
@@ -63,8 +73,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
+</td>
+
+<td width="40%" align="center" valign="top">
 
 ![Language Stats](stats/donut_by_weighted.png)
-</div>
+
+</td>
+</tr>
+</table>
 
 ### I Use <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="20"/> BTW
